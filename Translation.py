@@ -1,17 +1,15 @@
 class mr(object):
     PROGRESS_BAR = """\n
-╭───[**🔅Progress Bar🔅**]───⍟
-├<b>📁 : {1} | {2}</b>
-├<b>🚀 : {0}%</b>
-├<b>⚡ : {3}/s</b>
-├<b>⏱️ : {4}</b>
-╰─────────────────⍟"""
+<b>📁 : {1} | {2}</b>
+<b>🚀 : {0}%</b>
+<b>⚡ : {3}/s</b>
+<b>⏱️ : {4}</b>
+"""
 
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/mr_MKN>𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶</a>
-├😎 𝙳𝙴𝚅𝚂 : @Mhd_rzn & @mr_MKN 
+├👑 𝙳𝙴𝚅𝚂 : <a href=https://t.me/PYRO_BOTZ>TEAM-PYRO-BOTZ</a> 
 ├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/lntechnical2>𝙻𝙽 𝚃𝙴𝙲𝙷.𝚐𝚒𝚝</a>
 ├🖥️ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 : <a href=https://youtu.be/7ALYUk-rYMc>𝙼𝙾 𝚃𝙴𝙲𝙷 𝚈𝚃</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
@@ -39,5 +37,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/MKN_BOTZ_DISCUSSION_GROUP>𝑴𝑲𝑵 𝑩𝑶𝑻𝒁 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
